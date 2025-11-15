@@ -1,3 +1,5 @@
-34e9d0d (HEAD -> main, origin/main, origin/HEAD) completed Task 1.2
+137347e (HEAD -> main, origin/main, origin/HEAD) fixed log.txt for Task 2.1
+238f664 completed Task 2.1
+34e9d0d completed Task 1.2
 0b512eb completed Task 1.1
 9cf3ca2 Initial commit
