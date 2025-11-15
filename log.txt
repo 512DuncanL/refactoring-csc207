@@ -1,4 +1,6 @@
-137347e (HEAD -> main, origin/main, origin/HEAD) fixed log.txt for Task 2.1
+908234d (HEAD -> main, origin/main, origin/HEAD) i meant Task 2.2
+11c666b completed task 2.2
+137347e fixed log.txt for Task 2.1
 238f664 completed Task 2.1
 34e9d0d completed Task 1.2
 0b512eb completed Task 1.1
